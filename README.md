@@ -119,4 +119,4 @@ Here some good and free tutorials to learn
     * [Responsive Image](https://in.udacity.com/course/responsive-images--ud882)
 
 
-Thank you for support
+Thank you
