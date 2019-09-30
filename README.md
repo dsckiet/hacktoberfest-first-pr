@@ -94,7 +94,6 @@ If you like this please *__star__* this [repository](https://github.com/dsckiet/
 ---
 ## What next ??
 
-* You can work on other projects just search the organisation you like and see for **"Good First Issue"**.
 -To start of FreeCodeCamp is a good place they need help with guide and Non-Profit projects [Link](https://github.com/freeCodeCamp/guides)
 
 __Note :__ Always read ReadMe.md file of the projects it contains the instructions for working up and setting up of the projects.
