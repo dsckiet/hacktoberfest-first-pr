@@ -1,4 +1,4 @@
-# First_Contribution :beginner: :rocket: :HackertoberFest: 2019
+## First_Contribution :beginner: :rocket: :HackertoberFest: 2019
 ---
 A project to help new developers to get started with GitHub with first Pull Request
 
