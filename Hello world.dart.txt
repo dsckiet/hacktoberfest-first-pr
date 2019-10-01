@@ -3,6 +3,9 @@ import 'package:flutter/material.dart';
 
 void main() {
   print('Hello, World!');
+  var newfilevar;
+  newfilevar="hello world";
+  print(newfilevar);
 }
 
 
