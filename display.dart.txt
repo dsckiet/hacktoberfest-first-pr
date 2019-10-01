@@ -1,0 +1,34 @@
+main() {
+  Uint8List input = Uint8List.fromList([
+    255,
+    20,
+    0,
+    11,
+    0,
+    0,
+    0,
+    15,
+    80,
+    82,
+    69,
+    77,
+    84,
+    65,
+    72,
+    73,
+    76,
+    45,
+    53,
+    53,
+    57,
+    55,
+    48
+  ]);
+
+  ByteData bd = input.buffer.asByteData();
+  print(bd.getUint16(1, Endian.little)); // print the first short
+  print(bd.getUint16(3, Endian.little)); // and the second
+  print(bd.getUint16(5, Endian.little)); // and the third
+  int stringLength = input[7]; // get the length of the string
+  print(utf8.decode(input.sublist(8, 8 + stringLength))); // decode the string
+}
