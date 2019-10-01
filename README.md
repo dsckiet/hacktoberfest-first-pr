@@ -6,18 +6,18 @@ It's difficult when you do something for the first time. Like riding a bicycle, 
 
 But working on collaborative projects can be a hassle and we don't want to make mistakes to show that we are good developers. As open source is all about collaboration and working together.That is why this project was created to help new developers to make their first contribution and start their journey as a developer and contributing to the open source.
 
-### I can watch online tutorials and learn why this ?
+### I can watch online tutorials and learn why this?
 
 That's true you can watch and learn. But what's a better way to learn than getting hands-on experience & experiment by start contributing straight away?This project aims to provide beginners a simplified way to start contributing to open source.So If you are looking to make your first contribution to open source.This is the right place. Follow the following steps to get you started.
 
 If you don't have git, [install ]( https://help.github.com/articles/set-up-git/) it from here.
 
-## 1. Fork this repository
+## 1. Fork this Repository
 
 Fork this repository by click on __fork__ button on the top right corner of this page.
 This will create a copy of this repository in your account.
 
-## 2.Clone the repository
+## 2.Clone Repository
 
 * Now you are at your forked repository at your profile.
 * At the right side corner find  __clone or download__ button
@@ -66,7 +66,7 @@ Now commit those changes using the `git commit` command:
 For Example: 
 `git commit -m "Add John Doe to contributors list"`
 
-__Caution:__ Don't forget to add `-m` it specifies message to commit.If you forget it will take you to vim terminal which is difficult to operate.
+__Caution:__ Don't forget to add `-m` it specifies message to commit. If you forget it will take you to vim terminal which is difficult to operate.
 
 ## 5.Push changes to GitHub
 
@@ -92,7 +92,7 @@ You created your first contribution to open source :clap:
 If you like this please *__star__* this [repository](https://github.com/dsckiet/hacktoberfest-first-pr)
 
 ---
-## What next ??
+## What Next??
 
 * You can work on other projects just search the organisation you like and see for **"Good First Issue"**.
 -To start of FreeCodeCamp is a good place they need help with guide and Non-Profit projects [Link](https://github.com/freeCodeCamp/guides)
