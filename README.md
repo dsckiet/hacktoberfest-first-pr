@@ -20,7 +20,7 @@ This will create a copy of this repository in your account.
 ## 2.Clone Repository
 
 * Now you are at your forked repository at your profile.
-* At the right side corner find  __clone or download__ button
+* At the right side corner find  *clone or download* _ button
 * Now clone this repo to your machine. Click on the clone button and then click the *copy to clipboard* icon.
 * Now go to location on your computer where you want to store the local copy of this repository,where you will work on it.
 * After this, right click and select git bash here
