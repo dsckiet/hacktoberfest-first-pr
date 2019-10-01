@@ -1,4 +1,5 @@
-main() {
+import 'package:flutter/material.dart';
+void main() {
   Uint8List input = Uint8List.fromList([
     255,
     20,
@@ -6,22 +7,8 @@ main() {
     11,
     0,
     0,
-    0,
-    15,
-    80,
-    82,
-    69,
-    77,
-    84,
-    65,
-    72,
-    73,
-    76,
-    45,
-    53,
-    53,
-    57,
-    55,
+   12,
+45,67,23,
     48
   ]);
 
