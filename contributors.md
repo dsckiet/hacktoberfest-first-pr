@@ -1,5 +1,9 @@
 ## Contributors
 
-| # | Name | Links |
-| -- | -- | --|
-| 1 | Aakash Goel | https://github.com/goelaakash79, https://linkedin.com/in/goelaakash79@gmail.com | 
+[Pratik Butani](https://github.com/pratikbutani)
+
+[Ketan Vishwakarma](https://github.com/ketanvishwakarma)
+
+[bl00dh0und](https://github.com/bl00dh0und)
+
+[Aakash Goel](https://github.com/goelaakash79)
