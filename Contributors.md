@@ -17,3 +17,5 @@
 [Shreeyanshi Gupta](https://github.com/shrynshigupta06)
 
 [Franco Sanllehi](https://github.com/DmACKGL)
+
+[Anshul Gupta](https://github.com/anshul1507)
