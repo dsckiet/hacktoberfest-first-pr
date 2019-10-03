@@ -10,6 +10,8 @@
 
 [bl00dh0und](https://github.com/bl00dh0und)
 
+[shashank](https://github.com/ShashankJaitly)
+
 [anushka](https://github.com/AnushkaAgrawal23)
 
 [ritiksr25](https://github.com/ritiksr25)
