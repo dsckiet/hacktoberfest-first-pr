@@ -1,8 +1,4 @@
-[Pratik Butani](https://github.com/pratikbutani)
-
-[Ketan Vishwakarma](https://github.com/ketanvishwakarma)
-
-[bl00dh0und](https://github.com/bl00dh0und)
+[Rishabh Maheshwari](https://github.com/rishabhmaheshwari7)
 
 [Pratik Butani](https://github.com/pratikbutani)
 
@@ -21,3 +17,9 @@
 [Franco Sanllehi](https://github.com/DmACKGL)
 
 [Romy kumari](https://github.com/Romy701kumari)
+
+[Ritik varshney](https://github.com/ritikpy)
+
+[shivaniaakanksha](https://github.com/shivaniaakanksha)
+
+[Anshul Gupta](https://github.com/anshul1507)
