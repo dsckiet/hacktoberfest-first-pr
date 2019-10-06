@@ -16,6 +16,8 @@
 
 [Franco Sanllehi](https://github.com/DmACKGL)
 
+[abdulamite](https://github.com/abdulamite)
+
 [Romy kumari](https://github.com/Romy701kumari)
 
 [Ritik varshney](https://github.com/ritikpy)
