@@ -16,9 +16,9 @@
 
 [Franco Sanllehi](https://github.com/DmACKGL)
 
-[Bhadauria Saurav] (https://github.com/bhadauria)
+[Bhadauria Saurav](https://github.com/bhadauria)
 
-[Mayank Shakya] (https://github.com/mayanksh99)
+[Mayank Shakya](https://github.com/mayanksh99)
 
 [abdulamite](https://github.com/abdulamite)
 
