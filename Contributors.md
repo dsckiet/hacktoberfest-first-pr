@@ -16,6 +16,8 @@
 
 [Franco Sanllehi](https://github.com/DmACKGL)
 
+[Ritik varshney](https://github.com/ritikpy)
+
 [shivaniaakanksha](https://github.com/shivaniaakanksha)
 
 [Anshul Gupta](https://github.com/anshul1507)
