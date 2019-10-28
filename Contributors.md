@@ -2,6 +2,8 @@
 
 [Pratik Butani](https://github.com/pratikbutani)
 
+[Med Jawad](https://github.com/MedJawad)
+
 [Ketan Vishwakarma](https://github.com/ketanvishwakarma)
 
 [bl00dh0und](https://github.com/bl00dh0und)
