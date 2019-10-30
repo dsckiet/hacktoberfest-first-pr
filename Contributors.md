@@ -29,3 +29,5 @@
 [shivaniaakanksha](https://github.com/shivaniaakanksha)
 
 [Anshul Gupta](https://github.com/anshul1507)
+
+[Mike Rogne](https://github.com/mikerogne)
