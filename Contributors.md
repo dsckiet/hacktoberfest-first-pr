@@ -30,4 +30,6 @@
 
 [Anshul Gupta](https://github.com/anshul1507)
 
+[Mike Rogne](https://github.com/mikerogne)
+
 [Fernando Silva](https://github.com/fernandodebrando)
