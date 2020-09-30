@@ -33,3 +33,5 @@
 [Mike Rogne](https://github.com/mikerogne)
 
 [Fernando Silva](https://github.com/fernandodebrando)
+
+[Ritwick Bhargav](https://github.com/ritwickbhargav80)
