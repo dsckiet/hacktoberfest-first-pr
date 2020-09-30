@@ -1,0 +1,125 @@
+.container{
+	display: flex;
+}
+.header1{
+	font-family: Montserrat;
+	text-align: left;
+	padding: 3px 0px 12px 12%;
+	font-weight: 700;
+	font-size: 22px;
+	width:150px;
+}
+.header2{
+	font-family: Montserrat;
+	text-align: right;
+	width: 900px;
+	justify-content: space-between;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+    margin: 28px 20px 10px 10px;
+    color: #515256;
+    font-size: 17px;
+}
+.fa-facebook {
+  background: white;
+  color: #515256;
+}
+.fa {
+  text-align: center;
+  text-decoration: none;
+}
+.middle{
+  background-image: url(./back.jpg);
+  min-height: 565px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 100%;
+  display: flex;
+}
+.middle1{
+	font-family: Montserrat;
+	color: white;
+	padding: 80px 150px 150px 200px;
+	width: 650px;
+}
+.middle1 p{
+	font-weight: 700;
+}
+.middle2{
+	padding: 80px 150px 50px 0px;
+}
+.btn{
+    color: white;
+    background-color: transparent;
+    outline: none;
+    padding: 16px 48px;
+    border: none;
+    border: 2px solid white;
+    border-radius: 50px ;
+    cursor: pointer;
+   
+}
+.btn:hover{
+	opacity: 0.8;
+	background-color: grey;
+}
+.mid{
+	display: flex;
+}
+.mid1{
+	font-family: Montserrat;
+	padding: 80px 40px 150px 200px;
+	font-weight: 700;
+}
+.mid2{
+	padding: 100px 150px 150px 50px;
+}
+.foot{
+	background-color: #ededed;
+	display: flex;
+}
+.foot1{
+	padding: 95px 1px 150px 155px;
+}
+.foot2{
+	font-family: Montserrat;
+	font-weight: 700;
+	padding: 75px 0px 0px 0px;
+}
+ul.a{
+	 list-style-type: square;
+	 padding: 20px;
+}
+.parallax { 
+  background-image: url("./flow.jpg");
+  height: 400px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.footer{
+	display: flex;
+}
+.footer1{
+	padding: 100px 40px 100px 180px;
+}
+.footer2{
+	font-family: Montserrat;
+	font-weight: 700;
+	padding: 80px 180px 0px 0px;
+}
+.last{
+	background-color: #151616;
+}
+.last1{
+	font-family: Montserrat;
+	font-weight: 700;
+	text-align: center;
+	color: white;
+	padding-bottom: 5px;
+}
