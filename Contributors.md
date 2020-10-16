@@ -33,3 +33,5 @@
 [Mike Rogne](https://github.com/mikerogne)
 
 [Fernando Silva](https://github.com/fernandodebrando)
+
+[Manish Chauhan](https://github.com/manishchauhan)
