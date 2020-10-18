@@ -32,4 +32,6 @@
 
 [Mike Rogne](https://github.com/mikerogne)
 
-[Fernando Silva](https://github.com/fernandodebrando)
+[Fernando Silva](https://github.com/fernandodebrando)  
+
+[Aayush Kumar Rana](https://github.com/aayushakrrana)
